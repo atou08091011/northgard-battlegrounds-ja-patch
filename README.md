@@ -10,7 +10,7 @@
 
 ### 製品版（早期アクセス）【最新版】
 
-**Northgard Battlegrounds 製品版日本語化パッチ v1.0.0**
+**Northgard Battlegrounds 製品版日本語化パッチ v2026.10.30**
 
 **[▶ 製品版の日本語化パッチをダウンロード](https://github.com/atou08091011/northgard-battlegrounds-ja-patch/releases/latest)**
 
